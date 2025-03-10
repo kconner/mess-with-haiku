@@ -2,6 +2,10 @@
 
 [Haiku](https://www.haiku-os.org)
 
+[Impressions](https://kconner.com/2025/03/10/haiku-os-study-path.html)
+
+[Motivation](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when#c_ozxdmi)
+
 ## Study path
 
 - See the [About](https://www.haiku-os.org/about/) page for an intro
@@ -40,6 +44,3 @@
 - Haiku development [Getting Started](https://www.haiku-os.org/development/getting-started) guide
 
 I have some more links saved, but that's enough for an exploratory weekend.
-
-[How I got here](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when#c_ozxdmi)
-
